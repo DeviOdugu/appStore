@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.tab-list {
+  list-style-type: none;
+  padding: 10px;
+}
+.tabText {
+  color: #7b8794;
+  font-weight: 600;
+  border: none;
+  background-color: transparent;
+}
+.active {
+  color: #2563eb;
+  font-weight: 600;
+  border: none;
+  background-color: transparent;
+}
+.line {
+  border-bottom: solid #dfe2e5 2px;
+}
+.activeLine {
+  border-bottom: solid #2563eb 2px;
+}
